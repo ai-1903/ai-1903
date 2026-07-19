@@ -7,5 +7,5 @@
 ### Stack (Learning)
 
 ```
-JavaScript \ PHP \ React \ Swift \ TypeScript
+JavaScript / PHP / React / Swift / TypeScript
 ```
