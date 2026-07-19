@@ -6,4 +6,6 @@
 
 ### Stack (Learning)
 
-<pre><code>JavaScript / PHP / React / Swift / TypeScript</code></pre>
+```
+JavaScript / PHP / React / Swift / TypeScript
+```
