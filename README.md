@@ -6,6 +6,6 @@
 
 ### Stack (Learning)
 
-```
-JavaScript / PHP / React / Swift / TypeScript
-```
+<p style="font-family: monospace; letter-spacing: 0.2em;">
+  JavaScript / PHP / React / Swift / TypeScript
+</p>
